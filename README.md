@@ -75,5 +75,3 @@ adk web
 This repository is a work in progress. More experiments and projects will be added as I learn.
 
 ---
-
-⭐ Learning by building, one agent at a time.
